@@ -8,7 +8,7 @@
 
 
 # Initalizing dictionaries
-# dictionaries use calibracates
+# dictionaries use calibracaes
 Student = {"Name": "Brian","Age":19, "Gender": "Male"}
 #print(Student["Name"])
 #print(Student["Age"])
@@ -32,6 +32,19 @@ del Student["Name"]
 #print(Student)
 del Student["Age"]
 print(Student)
+
+#printing stars in pymarid shape
+print("        ***** ")
+print(" ***** ")
+print(" ***** ")
+print(" ***** ")
+print("        ***** ")
+print("        ***** ")
+print("        ***** ")
+print("        ***** ")
+# how to create an empty List
+
+
 
 
 

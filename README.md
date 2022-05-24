@@ -1,2 +1,2 @@
-# inspire-stem
+
 # inspire-stem
