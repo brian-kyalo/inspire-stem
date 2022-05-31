@@ -17,5 +17,14 @@ git config --- global user.name ="   "
 git config -- global user.email(=" ")
 git remote add main 
 git push 
+#data struc
+tures
 
+
+#for loops 
+for numbers in range
+# to get even NO. in python use modulas
+##write a program that can write numbers in reverse 
+# user input 
+#output = 007
 
