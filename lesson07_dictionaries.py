@@ -1,10 +1,4 @@
-#!/usr/bin/python
 
-##################
-#  dictionaries
-#  Name : Brian kyalo
-#  Date : 23 / 5 / 20
-##################
 
 
 # Initalizing dictionaries
