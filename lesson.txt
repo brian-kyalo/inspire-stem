@@ -1,0 +1,10 @@
+this is a normal text files 
+learning python is fun
+today is a windy day 
+
+f = open("lesson.txt",'r')
+w-- writing 
+x-- excuslive 
+f = open("lesson.txt",'x')
+a--opens a file for appending at end 
+t-- opens file in text mode 

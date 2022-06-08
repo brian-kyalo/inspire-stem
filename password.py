@@ -14,3 +14,4 @@ for c in range (len_password):
     password += random.choice(char)
 print(password)
 
+

@@ -27,11 +27,11 @@
 # philospher 
 
 
-#number = int(input("enter a number"))
-#if(number%7==0)or(number%5==0):#
-    #print(f"the number {number} is divisible by 5 or 7")
-#else:
-    #print(f"the number {number} is not divisible by 5 or 7")       
+number = int(input("enter a number "))
+if(number%7==0)or(number%5==0):#
+    print(f"the number {number} is divisible by 5 or 7")
+else:
+    print(f"the number {number} is not divisible by 5 or 7")       
 #write a program that customises users input 
 
 print("enter your name so we can customize yout greetings")

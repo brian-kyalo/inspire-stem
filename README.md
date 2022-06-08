@@ -28,3 +28,14 @@ for numbers in range
 # user input 
 #output = 007
 
+
+
+open file   file.name.open()
+write file   f.write()
+append       .append()
+close        .close()
+read      .read()
+seek       .seek()
+tell        .tell()
+readline     .readline()
+
